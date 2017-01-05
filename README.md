@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/AJS-development/ClosedAgar.svg?branch=master)](https://travis-ci.org/AJS-development/ClosedAgar) [![Forums](https://img.shields.io/badge/Forums-Ogarul.io-blue.svg)](http://forum.ogarul.io) [![chat](https://img.shields.io/badge/Chat-Discord-green.svg)](https://discord.gg/8JPsyDn) ![Status](https://img.shields.io/badge/Status-Basically%20Finished-brightgreen.svg) ![Project](https://img.shields.io/badge/Project-Semi--Private-yellow.svg) [![Plugins](https://img.shields.io/badge/Plugins-OAPlugins-green.svg)](https://github.com/AJS-development/OAPlugins) ![Stats](https://img.shields.io/badge/Code-71815%20Lines-green.svg)
-# ClosedAgar
+[![Build Status](https://travis-ci.org/AJS-development/ClosedOgarUL.svg?branch=master)](https://travis-ci.org/AJS-development/ClosedOgarUL) [![Forums](https://img.shields.io/badge/Forums-Ogarul.io-blue.svg)](http://forum.ogarul.io) [![chat](https://img.shields.io/badge/Chat-Discord-green.svg)](https://discord.gg/8JPsyDn) ![Status](https://img.shields.io/badge/Status-Basically%20Finished-brightgreen.svg) ![Project](https://img.shields.io/badge/Project-Semi--Private-yellow.svg) [![Plugins](https://img.shields.io/badge/Plugins-OAPlugins-green.svg)](https://github.com/AJS-development/OAPlugins) ![Stats](https://img.shields.io/badge/Code-71815%20Lines-green.svg)
+# ClosedOgarUL
 
-Hello, we are AJS Development! We are the same team that brought you OgarUl! In AJS, we have many members. The main members are Andrews54757 and LegitSoulja. We decided to create this project after OgarUl's Ogar infrastructure couldnt hold with all those cool features! So, we created our own, completely from scratch. Now, ClosedAgar is the most efficient Ogar-like game server available! Twice as efficient as MultiOgar, a gazillion times efficient than OgarUL, and 5 times efficient than Ogar! ([Proof](https://github.com/AJS-development/ClosedAgar/issues/1)) We also decided to make ClosedAgar as interesting as possible! New physics, new features, new gameplay and more!
+Hello, we are AJS Development! We are the same team that brought you OgarUl! In AJS, we have many members. The main members are Andrews54757 and LegitSoulja. We decided to create this project after OgarUl's Ogar infrastructure couldnt hold with all those cool features! So, we created our own, completely from scratch. Now, ClosedOgarUL is the most efficient Ogar-like game server available! Twice as efficient as MultiOgar, a gazillion times efficient than OgarUL, and 5 times efficient than Ogar! ([Proof](https://github.com/AJS-development/ClosedOgarUL/issues/1)) We also decided to make ClosedOgarUL as interesting as possible! New physics, new features, new gameplay and more!
 
 ## What game?
-It is a web game that we are making, similar to [agar.io](https://agar.io), but very different
+It is a web game that we are making, similar to [OgarUL.io](https://OgarUL.io), but very different
 
 ## How to Use
 
@@ -16,20 +16,20 @@ It is a web game that we are making, similar to [agar.io](https://agar.io), but 
 
 #### Guide
 
-1. Download this repo, or do `git clone https://github.com/AJS-development/ClosedAgar.git` to download from command line.
-2. Change directory to the project folder `cd ClosedAgar`
+1. Download this repo, or do `git clone https://github.com/AJS-development/ClosedOgarUL.git` to download from command line.
+2. Change directory to the project folder `cd ClosedOgarUL`
 3. Make sure all the dependancies are installed
 4. Install npm dependancies `npm install`
 5. Run index.js using node `node index.js`
-6. Record the ID given and get the appropriete key by going here: http://login.opnagar.us.
+6. Record the ID given and get the appropriete key by going here: http://login.opnOgarUL.us.
 7. Paste your key into `key.txt` (command line: `nano key.txt`)
 8. Run index.js again
-9. Connect using `opnagar.us` (development client, real one will be at ogarul.io)
+9. Connect using `opnOgarUL.us` (development client, real one will be at ogarul.io)
 
 #### The key system
-In order to use this, you must have a key. This is so this project isnt overwhelmed with people. However, you can get your key from us via http://login.opnagar.us. We will never charge or demand anything for it. However, we are limiting the amount of keys given out, to maintain this projects semi-private status.
+In order to use this, you must have a key. This is so this project isnt overwhelmed with people. However, you can get your key from us via http://login.opnOgarUL.us. We will never charge or demand anything for it. However, we are limiting the amount of keys given out, to maintain this projects semi-private status.
 
-##### Login.opnagar.us
+##### Login.opnOgarUL.us
 This is the website to generate keys from. You will have to sign up/sign in using your github account. Note there is a limit to the amount of accounts. We are using github because:
 
 1. We would rather have developers, not noobs
@@ -40,8 +40,8 @@ Then, once you are logged in, you can generate keys. You may only have one activ
 #### Please do not misuse the key system
 Please do not be an idiot and try to make money off of ths system. We will monitor accounts and suspend them that are known for misuse.
 
-## NEVER BUY OPENAGAR!
-If you bought a copy of closedagar, wow, you have been ripped. People who have a key might trick you that they will give away their copy for money. First off, that is impossible as keys are **generated uniquely for every machine**. This means the key they have, wont work on your machine, even if you copied their entire computer. Secondly, who would actually 'give up' a rare copy of ClosedAgar? They would rather just trick you. Thirdly, even if they did give it to you, and you managed to use their key (which is impossible), they would be able to remotly disable your purchased key and generate another one for themselves. So my advice to you: If you really want a copy, yet you dont have one, too bad, deal with it.
+## NEVER BUY OPENOgarUL!
+If you bought a copy of closedOgarUL, wow, you have been ripped. People who have a key might trick you that they will give away their copy for money. First off, that is impossible as keys are **generated uniquely for every machine**. This means the key they have, wont work on your machine, even if you copied their entire computer. Secondly, who would actually 'give up' a rare copy of ClosedOgarUL? They would rather just trick you. Thirdly, even if they did give it to you, and you managed to use their key (which is impossible), they would be able to remotly disable your purchased key and generate another one for themselves. So my advice to you: If you really want a copy, yet you dont have one, too bad, deal with it.
 
 ## Commands
 There are commands you can type in command line.
@@ -50,7 +50,7 @@ There are commands you can type in command line.
 |-----------|--------|
 |help       |Displays a list of commands|
 |startv     |Start visual gui, not implemented|
-|plugin     |Plugin command, the core feature of ClosedAgar|
+|plugin     |Plugin command, the core feature of ClosedOgarUL|
 |list       |List the players/bots/minions in the game|
 |server     |Create servers, remove servers, select servers, and list them |
 |pause      |Pause/unpause the game|
@@ -87,7 +87,7 @@ There are also some gamemodes
 |8   |Hunger Games (not finished)|
 
 ## Minigames
-Minigames are planned for ClosedAgar, we dont know exactly how they will work, but we have an idea. Some ideas:
+Minigames are planned for ClosedOgarUL, we dont know exactly how they will work, but we have an idea. Some ideas:
 
 * Pool: Like 8-ball pool with some tweaks. (2 players)
 * Maze: A maze, with teams and the first team to solve first wins (2-20 players)
@@ -98,7 +98,7 @@ Minigames are planned for ClosedAgar, we dont know exactly how they will work, b
 
 
 ## Plugins
-Since most of ClosedAgar's features doesnt come in the box, plugins are very important. So we made it very easy to install plugins. 
+Since most of ClosedOgarUL's features doesnt come in the box, plugins are very important. So we made it very easy to install plugins. 
 
 #### The Plugin Command
 The plugin command has four important actions.
@@ -145,7 +145,7 @@ They are black thingys that you can teleport with. If you collide with one, and 
 One thing we decided, was that we are not going to help other people run this project. If you cant... Too bad, use ogar. We are really trying to have this project be semi-private. 
 
 
-## More like ClosedAgar
+## More like ClosedOgarUL
 People have complained to me about this project being semi private. But in order to have everybody enjoy it, we must, since being too closed means disaster. This was the problem with OgarUL, it got too big it collapsed on itself.
 
 
@@ -163,5 +163,5 @@ Actually, there are a lot of features, but none come in the box. You must use th
 Yes, but note that we are very very strict. So many pull requests wont be accepted
 
 ## Another Note
-This game is different and is not Agar.io or Ogar. It is similar, but very different. We are making a unique game.
+This game is different and is not OgarUL.io or Ogar. It is similar, but very different. We are making a unique game.
 
