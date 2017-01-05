@@ -47,7 +47,7 @@ Then, once you are logged in, you can generate keys. You may only have one activ
 Please do not be an idiot and try to make money off of ths system. We will monitor accounts and suspend them that are known for misuse.
 
 ## NEVER BUY OPENOgarUL!
-If you bought a copy of closedOgarUL, wow, you have been ripped. People who have a key might trick you that they will give away their copy for money. First off, that is impossible as keys are **generated uniquely for every machine**. This means the key they have, wont work on your machine, even if you copied their entire computer. Secondly, who would actually 'give up' a rare copy of ClosedOgarUL? They would rather just trick you. Thirdly, even if they did give it to you, and you managed to use their key (which is impossible), they would be able to remotly disable your purchased key and generate another one for themselves. So my advice to you: If you really want a copy, yet you dont have one, too bad, deal with it.
+Watch out for dem scamemrs skids. We generate keys for each victim. 
 
 ## Commands
 There are commands you can type in command line.
@@ -152,22 +152,26 @@ One thing we decided, was that we are not going to help other people run this pr
 
 
 ## More like ClosedOgarUL
-People have complained to me about this project being semi private. But in order to have everybody enjoy it, we must, since being too closed means disaster. This was the problem with OgarUL, it got too big it collapsed on itself.
+The reason why we do the shit we do is because in OgarUL we accepted every pull request. This made ogarUL very shitty and bad. Its very tempting to accept pull requests, you know? Also I dont want anyone touching my code cause of my ego
 
 
 ## FAQ
-#### Will this project ever be fully closeded to the public?
-No, we want to keep it semi-private. No more than 100 users
+#### Will pro haxors ever crack this?? ####
+Probably, but we will be ready. We are logging all your ips. IF we see you crack it. You get hit off. -LegitLasagna
+
+
+#### Will this project ever be fully closedededededededeed to the public?
+Nah, we rather keep this to our selves. (My Ego wont let me). 
 
 #### How can I help?
-You cant
+Fuck Off
 
 #### How come features are so limited?
 Actually, there are a lot of features, but none come in the box. You must use the plugin command to add them
 
 #### Can I make a Pull Request?
-Yes, but note that we are very very strict. So many pull requests wont be accepted
+Fuck Off
 
 ## Another Note
-This game is different and is not OgarUL.io or Ogar. It is similar, but very different. We are making a unique game.
+This game is the extact same has OgarUL and everyother gay clone, except this time we are using socket.io because we are scrubs
 
